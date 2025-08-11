@@ -2,9 +2,7 @@
 
 A real-time chat application built with **Spring Boot** that uses **WebSocket** for live messaging.  
 This project demonstrates a simple but effective way to implement interactive communication between clients over the web using Java.
-
 ---
-
 ## Features
 - Real-time bidirectional communication using WebSocket
 - Simple chat interface with message broadcasting
